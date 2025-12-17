@@ -28,6 +28,8 @@ export const PROVIDER_COMPLETION_LIMITS: Record<string, number> = {
   OpenAILike: 8192,
   AmazonBedrock: 8192,
   Hyperbolic: 8192,
+  Zhipu: 8192,
+  Chutes: 8192,
 };
 
 /*

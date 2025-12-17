@@ -268,6 +268,8 @@ export class ImportExportService {
       Perplexity: '',
       Cohere: '',
       AzureOpenAI: '',
+      Zhipu: '',
+      Chutes: '',
     };
 
     // Add a comment to explain the format
